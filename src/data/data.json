@@ -1,0 +1,136 @@
+{
+    "Header": {
+
+        "title": "Fred Duy Tan Dao",
+        "paragraph": "I forgot to mention earlier that I also have a BA in Mass Communications from the University of South Carolina so I can also produce videos/photos/graphics on professional scale. "
+
+    },
+    "About": {
+        "paragraph": "My name is Fred Duy Tan Dao. I am a full stack web developer that uses HTML, CSS, Javascript, React JS, Java, and SQL in unison to create websites and web applications. I am excited to find a team that will help facilitate my continued growth as a developer by giving me new and exciting challenges to figure out. I believe that I will be able to use background in Communications to establish new development teams or strengthen an existing team. ",
+        "Why": [
+            "Great Teammate",
+            "Endless Curiousity",
+            "Creative Problem Solver",
+            "Resourceful"
+        ],
+        "Why2": [
+            "Ability to Plan",
+            "Business Administration",
+            "Disciplined Approach",
+            "Consistency"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Web",
+            "text": "In 2019 I launched an e-commerce site via Wordpress that was a spectacular failure. I failed fast and forward. I still plan on revisiting that project in the future."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "E-Commerce",
+            "text": "I learned how to use Stripe's API and Paypal's API to take payments for this site quickly. I dedicated so much of my time to this that I forgot to find an audience."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Remote Work",
+            "text": "Along with a lot of other folks, I have slowly but surely learned how to work in a remote environment although I am open to in person interaction."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Languages",
+            "text": "I am billingual, speaking both English and Vietnamese. I am proficient in Spanish and slowly learning German."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Logisitics",
+            "text": "After working at Amazon and learning first hand how one of the top e-commerce companies handles logisitics and software I am confident that I can bring those core compentencies to the table."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Critical Analysis",
+            "text": "I am constantly finding ways to connect the dots between variables and their outcomes. This ideology has fueled many of my interests and past pursuits."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Tesla and SpaceX would not have been possible without Fred having my back in the beginning. Fred is a true genius. Also while I'm here dogecoin to the MOOOOOOOOOON!!!\"",
+            "name": "Elon Musk (Business Magnate)"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Fred is one of the best friends that I could possibly ask for. He guided me through some very tough times in my professional and personal life. He is a true leader in my humble opinion.\"",
+            "name": "Barrack Obama (Former President)"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"That young man Fred is quite the funny guy! When I went to Africa he would always stay in touch and made sure that I didn't give up on what I loved. We've even written a few jokes together. It is rare to meet someone so geniunely kind. \"",
+            "name": "Dave Chappelle (Comedian)"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"The first person I play in order to prepare for my major tournaments would be Fred. He refuses to play chess on a professional level because it would ruin his love of the game but I truly believe that he is observant and calculated enough to beat me in a tournament setting.\"",
+            "name": "Magnus Carlsen (Chess GM)"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Whenever I get writer's block I always call Fred for a quick chat. Talking to him helps release a lot of mental blocks in my workflow. He always manages to ask the right questions to clear things up for me. His insatiable curiousity is something that I strive to emulate.\"",
+            "name": "Malcolm Gladwell (Author)"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"I always go to Fred to set my mind right before training. He might be new to boxing but whenever he is given a mission he puts every fiber of his being into it and that is something I admire about him.\"",
+            "name": "Ryan Garcia (Professional Boxer)"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Fred Dao",
+            "job": "Developer"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Freddy D",
+            "job": "Photographer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Fred Daoism",
+            "job": "Videographer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Frederick Dao",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "Call for Location",
+        "phone": "E-Mail for Phone Number",
+        "email": "freddaoism@gmail.com",
+        "facebook": "https://www.facebook.com/pablo.dao",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Communication",
+            "text": "Verbal and written communication is the secret sauce to success in an AGILE environment."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Project Management",
+            "text": "Nothing noteworthy has ever been accomplished by just one person. As a leader you are a servant to your goal and your team."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Teamwork",
+            "text": "Committing to a greater goal means to have the team's best interests in mind."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Magic of Perspective",
+            "text": "Humble beginnings yield people that work hard and are grateful for opportunities."
+        }
+    ]
+}
